@@ -2,9 +2,32 @@
 
 Disse filene er tenkt brukt av de som deltar på mitt introduksjonkurs om Linux. Presentasjonen fra kurset kan sees [her](Presentasjon.pdf).
 
-# Arbeidsfiler
+For å få filene vi skal bruke i den praktiske delen av kurset kjører vi følgende kommandoer i bash:
+
+    cd
+    git clone https://github.com/kreativitetNO/linuxkurs
+    cd linuxkurs
+
+Før du begynner å jobbe med filene:
+
+    git checkout -b MyBranch
+
+For å nullstille tilbake til originalfilene:
+
+    git checkout main
+    git reset --hard
+    git clean -fd .
+    git branch -d MyBranch
+
+# Dokumenter
+
+Dokumentene er skrevet i rekkefølgen de gås gjennom på i kurset. Derfor betyr ord som "tidligere" og "senere" at du må se henholdsvis oppover eller nedover i listen.
 
 - [Alternative måter å kjøre Linux på](Dokumenter/KjoereLinux.MD)
-- [Filhierarki](Dokumenter/FilHierarki.MD)
 - [Shell](Dokumenter/Shell.MD)
-- [Grunnleggende kommandoer](Dokumenter/Kommandoer.MD)
+- [Navigering](Dokumenter/Navigering.MD)
+- [Lage og se på filer](Dokumenter/LageFiler.MD)
+- [Filhierarki](Dokumenter/FilHierarki.MD)
+- [Få hjelp](Dokumenter/Hjelp.MD)
+- [Shell - Del 2](Dokumenter/Shell2.MD)
+- [Nyttig informasjon](NyttigInfo.MD)
