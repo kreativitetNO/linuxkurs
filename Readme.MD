@@ -4,5 +4,6 @@ Disse filene er tenkt brukt av de som deltar på mitt introduksjonkurs om Linux.
 
 # Arbeidsfiler
 
-- [Alternative måter å kjøre Linux på](KjoereLinux.MD)
-- [Grunnleggende kommandoer](Kommandoer.MD)
+- [Alternative måter å kjøre Linux på](Dokumenter/KjoereLinux.MD)
+- [Filhierarki](Dokumenter/FilHierarki.MD)
+- [Grunnleggende kommandoer](Dokumenter/Kommandoer.MD)
