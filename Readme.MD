@@ -1,6 +1,6 @@
 # Linux Kurs
 
-Disse filene er tenkt brukt av de som deltar på mitt introduksjonkurs om Linux. Presentasjonen fra kurset kan sees [her](Presentasjon.pdf).
+Disse filene er tenkt brukt av de som deltar på mitt introduksjonkurs om Linux. Presentasjonen fra kurset kan sees [her](Dokumenter/Linux_for_Nybegynnere.pdf).
 
 For å få filene vi skal bruke i den praktiske delen av kurset kjører vi følgende kommandoer i bash:
 
