@@ -1,0 +1,4 @@
+Todo.txt
+latex/
+!latex/Makefile
+!latex/test.tex

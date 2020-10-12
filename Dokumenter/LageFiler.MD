@@ -18,24 +18,41 @@ Kommandoer som blir gått gjennom her:
 
 Vi lager nye kataloger med:
 
-    mkdir [navn]
+    > mkdir [navn]
 
 Og sletter kataloger:
 
-    rmdir [navn]
+    > rmdir [navn]
 
 Vi kan lage en fil med:
 
-    touch [filnavn]
+    > touch [filnavn]
 
 (Touch lager en fil som ikke eksisterer, eller endrer datoen på filer som allerede eksisterer.)
 
 Filer slette vi med:
 
-    rm [filnavn]
+    > rm [filnavn]
 
 Hvis vi vil slette kataloger med filer kan vi ikke bruke rmdir. Vi må kjøre:
 
-    rm -rf [navn]
+    > rm -rf [navn]
 
 Parametrene sier at vi skal slette [navn] _rekursivt_ (alle filer og underkataloger) og med _force_ (at vi ikke får spørsmål om vi er sikre). Vær veldig forsiktig med å skrive denne kommandoen på feil sted.
+
+For å se innholdet i en fil kan vi skrive:
+
+    > cat [filnavn]
+
+For å se innholdet i en binær fil bruker vi:
+
+    > xxd filnavn
+
+Vi kopierer filer/kataloger med:
+
+    > cp [fra] [til]
+
+Og flytter/endrer navn med:
+
+    > mv [fra] [til]
+
