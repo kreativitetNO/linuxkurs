@@ -29,5 +29,6 @@ Dokumentene er skrevet i rekkefølgen de gås gjennom på i kurset. Derfor betyr
 - [Få hjelp](Dokumenter/Hjelp.MD)
 - [Lage og se på filer og kataloger](Dokumenter/LageFiler.MD)
 - [Filhierarki](Dokumenter/FilHierarki.MD)
+- [Finne filer eller innhold](Dokumenter/FinneTing.MD)
 - [Shell - Del 2](Dokumenter/Shell2.MD)
 - [Nyttig informasjon](NyttigInfo.MD)

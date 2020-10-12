@@ -4,3 +4,5 @@ make
     cat Makefile
     make
     ls
+
+ls til fil

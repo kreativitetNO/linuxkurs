@@ -1,20 +1,20 @@
 # Lage filer og kataloger
 
+Kommandoer som blir gått gjennom i denne filen:
+
+    mkdir # Lager en katalog
+    rmdir # Sletter en katalog
+    rm    # Sletter filer
+    touch # Oppretter eller oppdaterer datoen på en fil
+    cat   # Skriver en eller flere filer til skjermen
+    less  # Gjør det mulig å scrolle opp og ned i output
+    cp    # Kopierer filer
+    mv    # Flytter filer
+    xxd   # Skriver ut innholdet av binære filer
+
 Skift til linuxkurs katalogen først:
 
-    cd ~/linuxkurs
-
-Kommandoer som blir gått gjennom her:
-
-    mkdir
-    rmdir
-    rm
-    touch
-    cat
-    less
-    cp
-    mv
-    xxd
+    > cd ~/linuxkurs
 
 Vi lager nye kataloger med:
 
@@ -55,4 +55,3 @@ Vi kopierer filer/kataloger med:
 Og flytter/endrer navn med:
 
     > mv [fra] [til]
-

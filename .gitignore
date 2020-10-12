@@ -1,4 +1,5 @@
 Todo.txt
-latex/
-!latex/Makefile
-!latex/test.tex
+latex/test.log
+latex/test.aux
+latex/test.pdf
+cpp_program/Program

@@ -1,5 +1,12 @@
 # Hvordan få hjelp
 
+Kommandoer som blir gått gjennom i denne filen:
+
+    man
+    info
+    apropos
+
+
 I tillegg til Google og bøker, har Linux sitt eget relativt fyldige hjelpesystem. Siden vi går gjennom disse nå, vil ikke dokumentene som kommer etter denne inneholde like fyldige beskrivelser som dokumentet om navigering. De vil heller fokusere på tips som ikke nødvendigvis kommer like enkelt fram i dokumentasjonen.
 
 De fleste kommandoer kan du få hjelp for ved å skrive `--help` etter kommandoen.

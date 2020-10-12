@@ -48,7 +48,7 @@ Tegnet `/` brukes til å separere elementer av en path.
 
 Hittil har vi bare brukt relative path-er. Vi kan også bruke absolutte path-er. Det betyr at vi må oppgi alle kataloger fra og med rotkatalogen:
 
-    cd /home/[brukernavn]/Dokumenter
+    > cd /home/[brukernavn]/Dokumenter
 
 Hvis vi bare skriver `cd` skifter vi rett til hjemmekatalogen vår. Alternativt kan vi skrive `cd ~`. Disse kan kombineres slik:
 
