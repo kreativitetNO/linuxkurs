@@ -16,3 +16,7 @@ Kjøre "lettvirtuelle" programmer uten å måtte installere de på maskinen.
 ## Git
 
 Versjonsstyringssystem som ofte er ferdig installert i de fleste Linux distribusjoner. Brukes til å ta vare på kernel kildekoden. Laget av Linus Thorvalds selv fordi han ble sur.
+
+# Nyttige ressurser
+
+- [En veldig bra (gratis) bok om Git]()
