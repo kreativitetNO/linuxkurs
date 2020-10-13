@@ -19,4 +19,4 @@ Versjonsstyringssystem som ofte er ferdig installert i de fleste Linux distribus
 
 # Nyttige ressurser
 
-- [En veldig bra (gratis) bok om Git]()
+- [En veldig bra (gratis) bok om Git](https://git-scm.com/book/en/v2)
